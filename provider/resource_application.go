@@ -5,7 +5,7 @@ import (
 
 	"github.com/hashicorp/terraform-plugin-sdk/helper/schema"
 	"github.com/hashicorp/terraform-plugin-sdk/helper/validation"
-	"github.com/tpretz/go-zabbix-api"
+	"github.com/johnnytan2885/go-zabbix-api"
 )
 
 // resourceApplication terraform resource handler
